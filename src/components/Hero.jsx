@@ -94,7 +94,7 @@ const Hero = () => {
           <a
             rel="noopener noreferrer"
             target="_blank"
-            href="https://drive.google.com/file/d/14DZBjkxclS34vif4mmDtkLp0PRrHGBoW/view?usp=sharing"
+            href="https://drive.google.com/file/d/13h0t9z9HyPwWq52RNAS7gIPVN7kE2VsX/view?usp=sharing"
           >
             <button
               className="bg-gradient-to-r from-pink-500 to-yellow-500 text-white
